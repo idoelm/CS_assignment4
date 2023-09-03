@@ -8,12 +8,12 @@ namespace Ex04.Menus.Test
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Start()
         {
             Boolean Exit = false;
             int inPut;
-            Ex04.Menus.Interfaces.MainMenu mainMenuByInterface = new Ex04.Menus.Interfaces.MainMenu();
-            Ex04.Menus.Delegates.MainMenu mainMenuByDelegates = new Ex04.Menus.Delegates.MainMenu();
+            Interfaces.MainMenu mainMenuByInterface = new Interfaces.MainMenu();
+            Delegates.MainMenu mainMenuByDelegates = new Delegates.MainMenu();
             do
             {
                 Console.WriteLine(string.Format(@"Please select a method:
@@ -47,6 +47,10 @@ namespace Ex04.Menus.Test
                     Console.WriteLine("Invald input");
                 }
             } while (!Exit);
+        }
+        static void Main(string[] args)
+        {
+            Start();
         }
     }
 }
