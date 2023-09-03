@@ -1,0 +1,11 @@
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\bin\Debug\Tools.dll
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\bin\Debug\Tools.pdb
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\bin\Debug\Tools.dll.config
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CopyComplete
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\idoel\OneDrive - Sapir College\קורסים\שנה ב\c#\תרגילים\exe4\C23 Ex04 Sagi 316584622 Ido 316476340\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
